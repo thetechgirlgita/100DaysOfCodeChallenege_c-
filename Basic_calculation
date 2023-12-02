@@ -1,0 +1,41 @@
+// Maths.cpp
+
+#include "MathHeader.h"  // Including the header file to access function prototypes
+
+// Function to add two integers
+int add(int a, int b) {
+    return a + b;
+}
+
+// Function to multiply two doubles
+double multiply(double x, double y) {
+    return x * y;
+}
+
+int main() {
+    
+    int sum = add(5, 10);
+    double product = multiply(2.5, 3.0);
+
+    // Display the results
+    std::cout << "Sum: " << sum << std::endl;
+    std::cout << "Product: " << product << std::endl;
+
+    return 0;
+}
+
+-------------------------------------------------------------------------------------------------------------------
+// header file
+
+#ifndef MATHHEADER_H
+#define MATHHEADER_H
+
+// Function prototypes
+
+// Function to add two integers
+int add(int a, int b);
+
+// Function to multiply two doubles
+double multiply(double x, double y);
+
+#endif // MATHHEADER_H
