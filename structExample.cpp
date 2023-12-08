@@ -1,6 +1,6 @@
 #include <cstdio>  // C standard I/O library for printf
 
-
+//Structure
 struct Animal {
     char species[50];
     char sound[50];
