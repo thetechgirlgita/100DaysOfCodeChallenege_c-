@@ -14,7 +14,6 @@ int main() {
     // Modify the value through the reference
     referenceVar = 99;
 
-    // Print the modified value
     std::cout << "Modified Value through Reference: " << originalValue << std::endl;
 
     return 0;
