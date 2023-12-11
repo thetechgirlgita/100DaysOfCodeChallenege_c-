@@ -1,6 +1,8 @@
 #include <iostream>
 #include <string>
 
+//n inheritance, constructors play a crucial role in initializing the base class and derived class components.
+//When a derived class is created, its constructor first calls the constructor of its base class.
 class Car {
 public:
     // Constructor
