@@ -17,7 +17,7 @@ public:
 };
 
 int main() {
-    // Create an object of the Car class
+    // Create an object 
     Car myCar;
 
     // Assign values to the object's member variables
