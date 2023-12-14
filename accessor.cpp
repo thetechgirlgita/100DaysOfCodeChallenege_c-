@@ -1,6 +1,5 @@
 #include <iostream>
 
-// Define a simple class
 class MyClass {
 public:
     // Public members can be accessed from outside the class
