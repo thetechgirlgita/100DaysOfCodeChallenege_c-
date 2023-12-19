@@ -1,3 +1,5 @@
+//C++ Inheritance Access
+
 #include <iostream>
 using namespace std;
 
