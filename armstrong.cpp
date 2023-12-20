@@ -3,6 +3,7 @@
 
 using namespace std;
 
+// Function to determine if a number is an Armstrong number
 bool isArmstrong(int num) {
     int originalNum = num;
     int digitCount = 0;
@@ -15,16 +16,16 @@ bool isArmstrong(int num) {
     }
 
     originalNum = num; // Reset originalNum to its original value
-    
+
+    // Calculate the sum of the nth power of each digit
     while (originalNum != 0) {
         int digit = originalNum % 10;
         sum += pow(digit, digitCount);
         originalNum /= 10;
-    }// Calculate the sum of the nth power of each digit
+    }
 
-    
+    // Check if the sum is equal to the original number
     return (sum == num);
-  // Check if the sum is equal to the original number
 }
 
 int main() {
