@@ -2,6 +2,7 @@
 #include <cmath>
 
 using namespace std;
+// Converting Process
 
 int binaryToDecimal(int binaryNumber) {
     int decimalNumber = 0;
@@ -23,9 +24,8 @@ int main() {
     cout << "Enter a binary number: ";
     cin >> binaryNumber;
 
-    // Call the binaryToDecimal function and display the result
     int decimalNumber = binaryToDecimal(binaryNumber);
-    cout << "Decimal equivalent: " << decimalNumber << endl;
+    cout << "Converting to Decimal: " << decimalNumber << endl;
 
     return 0;
 }
