@@ -4,7 +4,7 @@ int main() {
     char operation;
     double num1, num2, result;
 
-    // Input from the user
+ // Enteries
     std::cout << "Enter first number: ";
     std::cin >> num1;
 
@@ -31,15 +31,15 @@ int main() {
                 result = num1 / num2;
             } else {
                 std::cout << "Error: Division by zero is undefined." << std::endl;
-                return 1; // Exit with an error code
+                return 1; 
             }
             break;
         default:
             std::cout << "Error: Invalid operation." << std::endl;
-            return 1; // Exit with an error code
+            return 1; 
     }
 
-    // Display the result
+    // 	Output
     std::cout << "Result: " << result << std::endl;
 
     return 0;
