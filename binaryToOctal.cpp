@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cmath>
-
+//Binary Numbers to Octal Number
 using namespace std;
 
 int main() {
