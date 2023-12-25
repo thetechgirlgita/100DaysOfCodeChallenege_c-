@@ -1,14 +1,12 @@
 #include <iostream>
 
 // Function to convert decimal to binary
-
-
-void decimalToBinary(int decimalNumber) {
-    
+void convertDecimalToBinary(int decimalNumber) {
+    // Handle the case when the number is 0 separately
     if (decimalNumber == 0) {
         std::cout << "Binary representation: 0" << std::endl;
         return;
-    }// Handle the case when the number is 0 separately
+    }
 
     int binaryRepresentation[32];
     int index = 0;
@@ -28,13 +26,13 @@ void decimalToBinary(int decimalNumber) {
 }
 
 int main() {
-    // Get the decimal number from the user
+    // Obtain the decimal number from the user
     int decimalNumber;
-    std::cout << "Enter a decimal number: ";
+    std::cout << "Please enter a decimal number: ";
     std::cin >> decimalNumber;
 
     // Convert decimal to binary
-    decimalToBinary(decimalNumber);
+    convertDecimalToBinary(decimalNumber);
 
     return 0;
 }
