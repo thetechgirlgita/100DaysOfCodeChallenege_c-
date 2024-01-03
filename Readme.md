@@ -1,6 +1,6 @@
 <h1> 100DaysOfCodeChallenege with C++ </h1>
 
-<tr>
+<td>
   <li> Day 1 </li>
   <li> Day 2 </li>
-</tr>
+</td>
