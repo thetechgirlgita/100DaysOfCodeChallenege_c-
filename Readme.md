@@ -2,4 +2,5 @@
 
 <tr>
   <li> Day 1 </li>
+  <li> Day 2 </li>
 </tr>
