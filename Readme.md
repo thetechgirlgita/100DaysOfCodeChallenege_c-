@@ -2,8 +2,8 @@
 <table>
  <tr>
     <th>Day</th>
-  <th> Date</th>
-    <th>FileName</th>
+   <th> Date</th>
+    <th>File Name</th>
     <th>Program</th>
   </tr>
   
