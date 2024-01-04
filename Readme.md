@@ -2,6 +2,7 @@
 <table>
  <tr>
     <th>Day</th>
+  <th> Date</th>
     <th>FileName</th>
     <th>Program</th>
   </tr>
