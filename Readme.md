@@ -3,15 +3,13 @@
  <tr>
   <h1>
     <th>Day</th>
+   <td>Day 1</td>
    <th> Date</th>
     <th>File Name</th>
     <th>Program</th>
   </h1>
   </tr>
-  <tr>
-Day 1
-  </tr>
-  
+ 
   
 </table>
 
