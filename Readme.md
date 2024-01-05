@@ -8,6 +8,9 @@
     <th>Program</th>
   </h1>
   </tr>
+  <tr>
+   <th> Day 1</th>
+  </tr>
   
   
 </table>
