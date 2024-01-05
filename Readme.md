@@ -9,7 +9,7 @@
   </h1>
   </tr>
   <tr>
-   <th> Day 1</th>
+Day 1
   </tr>
   
   
