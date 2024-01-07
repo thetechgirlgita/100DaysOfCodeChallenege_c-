@@ -1,4 +1,4 @@
-<h1> 100DaysOfCodeChallenege with C++ </h1>
+<h1> 100 Days Of Code Challenge with C++ </h1>
 <table>
  <tr>
   <h1>
