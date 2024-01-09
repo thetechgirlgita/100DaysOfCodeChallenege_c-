@@ -2,9 +2,9 @@
 <table>
   <thead>
     <tr>
-      <th>Column 1 Header</th>
-      <th>Column 2 Header</th>
-      <th>Column 3 Header</th>
+      <th>Day</th>
+      <th>Topic</th>
+      <th>File Address </th>
     </tr>
   </thead>
   <tbody>
