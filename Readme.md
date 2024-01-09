@@ -9,9 +9,9 @@
   </thead>
   <tbody>
     <tr>
-      <td>Day 1,  Hello World, 1</td>
-      <td>Row 1, Col 2</td>
-      <td>Row 1, Col 3</td>
+      <td>Day 1</td>
+      <td>Hello World</td>
+      <td> </td>
     </tr>
     <tr>
       <td>Row 2, Col 1</td>
