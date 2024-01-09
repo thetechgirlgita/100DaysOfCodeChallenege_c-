@@ -9,7 +9,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>Row 1, Col 1</td>
+      <td>Day 1,  Hello World, 1</td>
       <td>Row 1, Col 2</td>
       <td>Row 1, Col 3</td>
     </tr>
