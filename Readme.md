@@ -14,9 +14,9 @@
       <td> </td>
     </tr>
     <tr>
-      <td>Row 2, Col 1</td>
-      <td>Row 2, Col 2</td>
-      <td>Row 2, Col 3</td>
+      <td>Day 2</td>
+      <td></td>
+      <td></td>
     </tr>
     <!-- Add more rows as needed -->
   </tbody>
