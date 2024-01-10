@@ -21,7 +21,9 @@
     <tr>
       <td>Day 34</td>
       <td>Reverse the String</td>
-      <td></td>
+      <td>
+     [Day 1](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%201/Hello_world.txt)
+      </td>
     </tr>
     <!-- Add more rows as needed -->
   </tbody>
