@@ -22,7 +22,7 @@
       <td>Day 34</td>
       <td>Reverse the String</td>
       <td>
-     [Day 1](https://github.com/thetechgirlgita/100DaysWithPython/blob/master/Day%201/Hello_world.txt)
+     <a href="[https://www.example1.com](https://github.com/thetechgirlgita/100DaysOfCodeChallenege_c-/blob/master/reverseString.cpp)" target="_blank">Day 34</a>
       </td>
     </tr>
     <!-- Add more rows as needed -->
