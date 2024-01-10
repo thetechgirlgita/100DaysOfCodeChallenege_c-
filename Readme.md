@@ -18,6 +18,11 @@
       <td></td>
       <td></td>
     </tr>
+    <tr>
+      <td>Day 34</td>
+      <td>Reverse the String</td>
+      <td></td>
+    </tr>
     <!-- Add more rows as needed -->
   </tbody>
 </table>
