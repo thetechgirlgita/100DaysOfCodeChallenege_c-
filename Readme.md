@@ -36,6 +36,12 @@
      <a href="[(https://github.com/thetechgirlgita/100DaysOfCodeChallenege_c-/blob/master/reverseString.cpp)]" target="_blank">Day 34</a>
       </td>
     </tr>
+  <td>Day 36</td>
+      <td>Selection Array Sorting </td>
+      <td>
+     <a href="[(https://github.com/thetechgirlgita/100DaysOfCodeChallenege_c-/blob/master/reverseString.cpp)]" target="_blank">Day 34</a>
+      </td>
+    </tr>
     <!-- Add more rows as needed -->
   </tbody>
 </table>
