@@ -23,11 +23,6 @@
       <td></td>
       <td></td>
     </tr>
-     <tr>
-      <td>Day 37</td>
-      <td>Simple Intrest Calculator</td>
-      <td><a href ="[(https://github.com/thetechgirlgita/100DaysOfCodeChallenege_c-/blob/master/simpleIntrest.cpp)]"> </td>
-    </tr>
     <tr>
       <td>Day 34</td>
       <td>Reverse the String</td>
@@ -46,6 +41,11 @@
       <td>
      <a href="[(https://github.com/thetechgirlgita/100DaysOfCodeChallenege_c-/blob/master/reverseString.cpp)]" target="_blank">Day 34</a>
       </td>
+    </tr>
+   <tr>
+      <td>Day 37</td>
+      <td>Simple Intrest Calculator</td>
+      <td><a href ="[(https://github.com/thetechgirlgita/100DaysOfCodeChallenege_c-/blob/master/simpleIntrest.cpp)]"> </td>
     </tr>
     <!-- Add more rows as needed -->
   </tbody>
