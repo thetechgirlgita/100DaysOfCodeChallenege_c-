@@ -47,6 +47,11 @@
       <td>Simple Intrest Calculator</td>
       <td><a href ="[(https://github.com/thetechgirlgita/100DaysOfCodeChallenege_c-/blob/master/simpleIntrest.cpp)]"> </td>
     </tr>
+         <tr>
+      <td>Day 38</td>
+      <td>Memory Allocation and Deallocation Example</td>
+      <td><a href ="[(https://github.com/thetechgirlgita/100DaysOfCodeChallenege_c-/blob/master/simpleIntrest.cpp)]"> </td>
+    </tr>
     <!-- Add more rows as needed -->
   </tbody>
 </table>
