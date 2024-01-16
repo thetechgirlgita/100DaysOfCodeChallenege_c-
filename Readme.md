@@ -39,7 +39,7 @@
   <td>Day 36</td>
       <td>Selection Array Sorting </td>
       <td>
-     <a href="[(https://github.com/thetechgirlgita/100DaysOfCodeChallenege_c-/blob/master/reverseString.cpp)]" target="_blank">Day 34</a>
+     <a href="[(https://github.com/thetechgirlgita/100DaysOfCodeChallenege_c-/blob/master/reverseString.cpp)]" target="_blank">Day 36</a>
       </td>
     </tr>
    <tr>
