@@ -60,7 +60,7 @@
          <tr>
       <td>Day 39</td>
       <td>Inheritance Basic Example</td>
-      <td><a href ="[(https://github.com/thetechgirlgita/100DaysOfCodeChallenege_c-/blob/master/memory.cpp)]"> </td>
+      <td><a href ="[(https://github.com/thetechgirlgita/100DaysOfCodeChallenege_c-/blob/master/inheritence.cpp)]"> </td>
     </tr>
     <!-- Add more rows as needed -->
   </tbody>
