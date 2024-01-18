@@ -64,7 +64,7 @@
     </tr>
          <tr>
       <td>Day 40</td>
-      <td>Inheritance Basic Example</td>
+      <td>Inheritance Multi Level </td>
       <td><a href ="[(https://github.com/thetechgirlgita/100DaysOfCodeChallenege_c-/blob/master/inheritence.cpp)]"> </td>
     </tr>
     <!-- Add more rows as needed -->
