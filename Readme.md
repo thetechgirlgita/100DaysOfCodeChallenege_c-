@@ -33,7 +33,7 @@
       <td></td>
     </tr>
     <tr>
-      <td>Day 5</td>
+      <td>Day 6</td>
       <td></td>
       <td></td>
     </tr>
