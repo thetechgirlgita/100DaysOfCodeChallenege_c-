@@ -33,6 +33,11 @@
       <td></td>
     </tr>
     <tr>
+      <td>Day 5</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td>Day 34</td>
       <td>Reverse the String</td>
       <td>
