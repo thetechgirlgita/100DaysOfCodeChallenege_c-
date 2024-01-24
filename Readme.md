@@ -99,6 +99,11 @@
       <td>Constructor Inheritence </td>
       <td><a href ="[(https://github.com/thetechgirlgita/100DaysOfCodeChallenege_c-/blob/master/inheritence.cpp)]"> </td>
     </tr>
+          <tr>
+      <td>Day 43</td>
+      <td>Reversed String Array</td>
+      <td><a href ="[(https://github.com/thetechgirlgita/100DaysOfCodeChallenege_c-/blob/master/inheritence.cpp)]"> </td>
+    </tr>
     <!-- Add more rows as needed -->
   </tbody>
 </table>
