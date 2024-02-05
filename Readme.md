@@ -116,6 +116,11 @@
       <td>Hello World</td>
       <td> </td>
     </tr>
+   <tr>
+      <td>Day 24</td>
+      <td>Hello World</td>
+      <td> </td>
+    </tr>
     <tr>
       <td>Day 34</td>
       <td>Reverse the String</td>
